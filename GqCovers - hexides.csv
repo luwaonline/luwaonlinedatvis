@@ -1,0 +1,447 @@
+Magazine,Month,Year,Date,Name,Nationality,Sex,Job,Hexidecimal
+GQ USA,April,1990,April 1990,Bryan Brown,American,Male,Actor,#F3AC7C
+GQ USA,April,1991,April 1991,Matt Dillon,American,Male,Actor,#FCC19F
+GQ USA,April,1992,April 1992,John Godoman,American,Male,Actor,#F2AD6C
+GQ USA,April,1993,April 1993,Prince Charles,American,Male,Prince,#F7856B
+GQ USA,April,1994,April 1994,Barry Bonds,American,Male,Baseball Player,#C5522E
+GQ USA,April,1994,April 1994,Willy Mays,American,Male,Baseball Player,#C14829
+GQ USA,April,1995,April 1995,Grant Hill,American,Male,Baseball Player,#EF7143
+GQ USA,April,1996,April 1996,Ken Griffey Jr.,American,Male,Baseball Player,#C96240
+GQ USA,April,1997,April 1997,Tiger Woods,American,Male,Golf Player,#DD6950
+GQ USA,April,1998,April 1998,Muhammed Ali,American,Male,Boxer,#D14E34
+GQ USA,April,1999,April 1999,Mike Piazza,American,Male,Actor,#000000
+GQ USA,April,2000,April 2000,Alex Rodriguez,American,Male,Baseball Player,#FE8F6E
+GQ USA,April,2000,April 2000,Derek Jeter,American,Male,Baseball Player,#F1875E
+GQ USA,April,2000,April 2000,Normar Garciaparra,American,Male,Baseball Player,#FEB994
+GQ USA,April,2001,April 2001,Jaime King,Australian,Female,Actor,#EBAAB0
+GQ USA,April,2002,April 2002,Katie Holmes,American,Female,Actor,#FFC18F
+GQ USA,April,2003,April 2003,Bernie Mac,American,Male,Comedian,#78382D
+GQ USA,April,2004,April 2004,Viggo Mortensen,Danish,Male,Actor,#F4AD92
+GQ USA,April,2005,April 2005,Jessica Alba,American,Female,Actor,#CD6143
+GQ USA,April,2006,April 2006,Adriana Lima,Brazilian,Female,Model,#AC896F
+GQ USA,April,2007,April 2007,Lindsay Lohan,American,Female,Actor,#F6CEB7
+GQ USA,April,2008,April 2008,Adriana Lima,Brazilian,Female,Model,#E5B080
+GQ USA,April,2009,April 2009,Robert Pattinson,British,Male,Actor,#EABCA1
+GQ USA,April,2010,April 2010,Shia LaBeouf,American,Male,Actor,#E6C0A6
+GQ USA,April,2011,April 2011,Derek Jeter,American,Male,Baseball Player,#C78563
+GQ USA,April,2012,April 2012,Dave Franco,American,Male,Actor,#EAB996
+GQ USA,April,2012,April 2012,Drake,Canadian,Male,Actor,#D6AA89
+GQ USA,April,2012,April 2012,John Slattery,American,Male,Actor,#F8D5BC
+GQ USA,April,2013,April 2013,Bruno Mars,American,Male,Singer,#B87955
+GQ USA,April,2013,April 2013,Jason Bateman,American,Male,Actor,#FFD0AE
+GQ USA,April,2013,April 2013,Jimmy Fallon,American,Male,Television Host,#DA9F74
+GQ USA,April,2014,April 2014,Kit Harrington,British,Male,Actor,#DDB192
+GQ USA,April,2014,April 2014,Liam Neeson,Irish,Male,Actor,#DDB192
+GQ USA,April,2014,April 2014,Pharrell Williams,American,Male,Singer,#E3BB9F
+GQ USA,April,2015,April 2015,Jon Hamm,American,Male,Actor,#E7BEAE
+GQ USA,April,2016,April 2016,David Beckham,American,Male,Football Player,#E9C3B7
+GQ USA,April,2017,April 2017,Roger Federer,Swiss,Male,Tennis Player,#E5B79F
+GQ USA,April,2018,April 2018,Diddy,American,Male,Singer,#824525
+GQ USA,April,2019,April 2019,J. Cole,American,Male,Singer,#F69A58
+GQ USA,August,1990,August 1990,Nicolas Cage,American,Male,Actor,#FBA67B
+GQ USA,August,1991,August 1991,Don Henley,American,Male,Singer,#F6967B
+GQ USA,August,1992,August 1992,Kyle MacLachlan,American,Male,Actor,#FDBA86
+GQ USA,August,1993,August 1993,Sharon Stone,American,Female,Actor,#EEA274
+GQ USA,August,1994,August 1994,Ralph Fiennes,British,Male,Actor,#FC9671
+GQ USA,August,1995,August 1995,Jean-Claude Van Damme,Belgian,Male,Actor,#FE996E
+GQ USA,August,1996,August 1996,Jackie Chan,American,Male,Actor,#FCB066
+GQ USA,August,1997,August 1997,Mira Sorvino,American,Female,Actor,#FFB4A0
+GQ USA,August,1998,August 1998,Liv Tyler,American,Female,Actor,#F2B99F
+GQ USA,August,1999,August 1999,Diddy,American,Male,Singer,#CD452B
+GQ USA,August,2000,August 2000,Anna Kournikova,Russian,Female,Tennis Player,#FC9997
+GQ USA,August,2001,August 2001,Chris Tucker,American,Male,Actor,#AC4830
+GQ USA,August,2002,August 2002,Vin Diesel,American,Male,Actor,#F6B290
+GQ USA,August,2003,August 2003,Johnny Depp,American,Male,Actor,#FBB496
+GQ USA,August,2004,August 2004,Halle Berry,American,Female,Actor,#D18252
+GQ USA,August,2005,August 2005,Johnny Knoxville,American,Male,Actor,#F2C5AC
+GQ USA,August,2006,August 2006,Justin Timberlake,American,Male,Singer,#D2B2A6
+GQ USA,August,2007,August 2007,Matt Damon,American,Female,Actor,#E7CBC0
+GQ USA,August,2008,August 2008,Seth Rogen,American,Male,Actor,#E9BEB1
+GQ USA,August,2009,August 2009,Channing Tatum,American,Male,Actor,#E3C7B2
+GQ USA,August,2010,August 2010,Tracy Morgan,American,Male,Actor,#B37857
+GQ USA,August,2011,August 2011,Mila Kunis,American,Female,Actor,#F4CFB6
+GQ USA,August,2012,August 2012,Joseph Gordon Levitt,American,Male,Actor,#F2C8B5
+GQ USA,August,2013,August 2013,Bryon Cranston,American,Male,Actor,#F0C0A0
+GQ USA,August,2014,August 2014,Kanye West,American,Male,Singer,#8F5E4E
+GQ USA,August,2015,August 2015,Amy Schumer,American,Female,Comedian,#F4D3C3
+GQ USA,August,2016,August 2016,Matt Damon,American,Male,Actor,#EAC3B9
+GQ USA,August,2017,August 2017,John Boyega,British,Male,Actor,#AF785D
+GQ USA,August,2018,August 2018,Kylie Jenner,American,Female,Television Personality,#C7A990
+GQ USA,August,2018,August 2018,Travis Scott,American,Male,Singer,#644A3B
+GQ USA,August,2019,August 2019,Odell Beckham Jr.,American,Male,NFL Player,#B48F74
+GQ USA,December,1990,December 1990,Andy GarcIa,American,Male,Actor,#FFC3A0
+GQ USA,December,1991,December 1991,Armand Assante,American,Male,Actor,#CD836B
+GQ USA,December,1992,December 1992,Tom Cruise,American,Male,Actor,#000000
+GQ USA,December,1993,December 1993,Liam Neeson,Irish,Male,Actor,#F9935C
+GQ USA,December,1994,December 1994,Hugh Grant,British,Male,Actor,#F49A73
+GQ USA,December,1995,December 1995,Antonio Banderas,Spanish,Male,Actor,#FE915A
+GQ USA,December,1996,December 1996,Tom Cruise,American,Male,Actor,#FCBA9E
+GQ USA,December,1997,December 1997,John Cusack,American,Male,Actor,#000000
+GQ USA,December,1998,December 1998,Vince Vaugn,American,Male,Actor,#EAAC94
+GQ USA,December,1999,December 1999,Matt Damon,American,Male,Actor,#E4A08A
+GQ USA,December,2000,December 2000,Charlize Theron,South African,Female,Actor,#FAB37E
+GQ USA,December,2001,December 2001,Will Smith,American,Male,Actor,#C3533B
+GQ USA,December,2002,December 2002,Jennifer Lopez,American,Female,Singer,#D89C6F
+GQ USA,December,2003,December 2003,Uma Therman,American,Female,Actor,#EBB39D
+GQ USA,December,2004,December 2004,James Gandolfini,Italian-American,Male,Actor,#EEC4A9
+GQ USA,December,2004,December 2004,Jude Law,British,Male,Actor,#E99C81
+GQ USA,December,2004,December 2004,Tom Cruise,American,Male,Actor,#F4D5B9
+GQ USA,December,2005,December 2005,50 Cent,American,Male,Singer,#5F3730
+GQ USA,December,2005,December 2005,Jennifer Anniston,American,Female,Actor,#DCAA97
+GQ USA,December,2005,December 2005,Vince Vaugn,American,Male,Actor,#DEBEA2
+GQ USA,December,2006,December 2006,Jay-Z,American,Male,Singer,#8C4F32
+GQ USA,December,2006,December 2006,Leonardo DiCaprio,American,Male,Actor,#E2AB8E
+GQ USA,December,2006,December 2006,Will Ferrell,American,Male,Actor,#DBA287
+GQ USA,December,2007,December 2007,Bill Clinton,American,Male,Politician,#99694A
+GQ USA,December,2008,December 2008,Leonardo DiCaprio,American,Male,Actor,#EAC9B4
+GQ USA,December,2009,December 2009,Clint Eastwood,American,Male,Actor,#E7AF84
+GQ USA,December,2010,December 2010,Scarlett Johansson,American,Female,Actor,#E1C9B2
+GQ USA,December,2011,December 2011,Jay-Z,American,Male,Singer,#784C30
+GQ USA,December,2012,December 2012,Ben Affleck,American,Male,Actor,#F1D1C1
+GQ USA,December,2012,December 2012,Channing Tatum,American,Male,Actor,#F3C8B2
+GQ USA,December,2012,December 2012,Rihanna,Barbadian,Female,Singer,#F5D2BA
+GQ USA,December,2013,December 2013,Will Ferrell,American,Male,Actor,#EED3C5
+GQ USA,December,2014,December 2014,Ansel Elgort,American,Male,Actor,#EED2BA
+GQ USA,December,2014,December 2014,Chris Pratt,American,Male,Actor,#EBC0AC
+GQ USA,December,2014,December 2014,Dave Chapelle,American,Male,Comedian,#A3593E
+GQ USA,December,2014,December 2014,Shailene Woodley,American,Female,Actor,#FCE3D3
+GQ USA,December,2015,December 2015,Barack Obama,American,Male,Politician,#B7795A
+GQ USA,December,2015,December 2015,Tom Brady,American,Male,NFL Player,#EAC6B9
+GQ USA,December,2016,December 2016,Ryan Reynolds,Canadian-American,Male,Actor,#E2AC94
+GQ USA,December,2016,December 2016,Usain Bolt,Jamacian,Male,Athlete,#9B6145
+GQ USA,December,2016,December 2016,Warren Beatty,American,Male,Actor,#E2B49C
+GQ USA,December,2017,December 2017,Stephen Colbert,American,Male,Comedian,#DDAE9B
+GQ USA,December,2018,December 2018,Michael B. Jordan,American,Male,Actor,#885D28
+GQ USA,December,2019,December 2019,Tyler the Creator,American,Male,Singer,#B47B5D
+GQ USA,February,1990,February 1990,Alec Baldwin,American,Male,Actor,#EA7C2C
+GQ USA,February,1991,February 1991,Julia Roberts,American,Female,Actor,#F1C188
+GQ USA,February,1992,February 1992,Patrick Swayze,American,Male,Actor,#FFA668
+GQ USA,February,1993,February 1993,Magic Johnson,American,Male,Baseball Player,#B3452D
+GQ USA,February,1994,February 1994,Geena Davis,American,Female,Actor,#FDC27B
+GQ USA,February,1995,February 1995,Uma Therman,American,Female,Actor,#F1BFA3
+GQ USA,February,1996,February 1996,Tyra Banks,American,Female,Model,#D74F30
+GQ USA,February,1997,February 1997,Dennis Rodman,American,Male,Baseball Player,#BB512D
+GQ USA,February,1997,February 1997,Rebecca Romijn,Dutch,Female,Model,#FBAC90
+GQ USA,February,1998,February 1998,Ben Affleck,American,Male,Actor,#FE9D6A
+GQ USA,February,1999,February 1999,Evander Holyfield,American,Male,Actor,#CD512E
+GQ USA,February,2000,February 2000,Penelope Cruz,Spanish,Female,Actor,#EB8450
+GQ USA,February,2001,February 2001,Edward Burns,American,Male,Actor,#FBC3B6
+GQ USA,February,2002,February 2002,Guy Pearce,British-Australian,Male,Actor,#F7C5A0
+GQ USA,February,2003,February 2003,Sam Rockwell,American,Male,Actor,#F1B296
+GQ USA,February,2004,February 2004,Ashton Kutcher,American,Male,Actor,#E79882
+GQ USA,February,2005,February 2005,Jamie Foxx,American,Male,Actor,#7D3421
+GQ USA,February,2006,February 2006,Heath Ledger,Australian,Male,Actor,#E2C1AD
+GQ USA,February,2007,February 2007,Jake Gyllenhaal,American,Male,Actor,#D7B6B6
+GQ USA,February,2008,February 2008,Rachel Bilson,American,Female,Actor,#F8D7B7
+GQ USA,February,2009,February 2009,LeBron James,American,Male,Basketball Player,#7D4924
+GQ USA,February,2010,February 2010,Johnny Depp,American,Male,Actor,#EAB89E
+GQ USA,February,2011,February 2011,Muhammed Ali,American,Male,Boxer,#8E5238
+GQ USA,February,2012,February 2012,Michelle Williams,American,Female,Actor,#FBE8D5
+GQ USA,February,2013,February 2013,Beyonce,American,Female,Singer,#F1BC95
+GQ USA,February,2014,February 2014,Katy Perry,American,Female,Singer,#EFCEB5
+GQ USA,February,2015,February 2015,Pharrell Williams,American,Male,Singer,#DE9675
+GQ USA,February,2016,February 2016,Alessandra Ambrosio,Brazilian,Female,Model,#FBBB9C
+GQ USA,February,2016,February 2016,Christiano Ronaldo,Spanish,Male,Football Player,#F6AC90
+GQ USA,February,2017,February 2017,Chance the Rapper,American,Male,Singer,#CB8460
+GQ USA,February,2017,February 2017,The Weeknd,American,Male,Singer,#E29E81
+GQ USA,February,2018,February 2018,Jimmy Kimmel,American,Male,Television Host,#DEBAA4
+GQ USA,February,2019,February 2019,Frank Ocean,American,Male,Singer,#A2542E
+GQ USA,February,2020,February 2020,Larry David,American,Male,Actor,#FEE3DC
+GQ USA,January,1990,January 1990,Jack Nicholson,American,Male,Actor,#F9BB76
+GQ USA,January,1991,January 1991,Robert De Niro,American,Male,Actor,#FCBC7C
+GQ USA,January,1992,January 1992,John F. Kennedy,American,Male,Politician,#000000
+GQ USA,January,1993,January 1993,Robert Downey Jr.,American,Male,Actor,#F4A673
+GQ USA,January,1994,January 1994,Denzel Washington,American,Male,Actor,#BB462E
+GQ USA,January,1995,January 1995,Paul Newman,American,Male,Actor,#F6C2A6
+GQ USA,January,1996,January 1996,Jack Nicholson,American,Male,Actor,#D1A395
+GQ USA,January,1997,January 1997,David Duchovny,American,Male,Actor,#000000
+GQ USA,January,1998,January 1998,Alonzo Mourning,American,Male,Basketball Coach,#912926
+GQ USA,January,1998,January 1998,Anfernee Hardaway,American,Male,Basketball Coach,#C35D40
+GQ USA,January,1998,January 1998,Pat Riley,American,Male,Basketball Coach,#CB5F46
+GQ USA,January,1999,January 1999,Heidi Klum,German,Female,Model,#DF8D81
+GQ USA,January,2000,January 2000,Tyra Banks,American,Female,Model,#EE7842
+GQ USA,January,2001,January 2001,Philip Seymour Hoffman,American,Male,Actor,#FFC7AB
+GQ USA,January,2002,January 2002,Hugh Jackman,Australian,Male,Actor,#EDA079
+GQ USA,January,2003,January 2003,George Clooney,American,Male,Actor,#F5B59B
+GQ USA,January,2004,January 2004,Orlando Bloom,British,Male,Actor,#E3A396
+GQ USA,January,2005,January 2005,Kate Bosworth,American,Female,Actor,#F2AA89
+GQ USA,January,2006,January 2006,Jack Black,American,Male,Actor,#F8B78C
+GQ USA,January,2007,January 2007,Robert De Niro,American,Male,Actor,#E3AD98
+GQ USA,January,2008,January 2008,Josh Brolin,American,Male,Actor,#DBAD8B
+GQ USA,January,2009,January 2009,Jennifer Anniston,American,Female,Actor,#ECC9A6
+GQ USA,January,2010,January 2010,Rihanna,Barbadian,Female,Singer,#BB895E
+GQ USA,January,2011,January 2011,Ryan Gosling,American,Male,Actor,#E1C9B2
+GQ USA,January,2012,January 2012,Matt Damon,American,Male,Actor,#F0C5A2
+GQ USA,January,2013,January 2013,Bill Murray,American,Male,Actor,#E6D3B1
+GQ USA,January,2014,January 2014,Bradley Cooper,American,Male,Actor,#E4B48D
+GQ USA,January,2015,January 2015,Chris Hemsworth,Australian,Male,Actor,#E2BAAA
+GQ USA,January,2016,January 2016,Oscar Issac,Guatemalan-American,Male,Actor,#E0AE98
+GQ USA,January,2017,January 2017,Ryan Gosling,Canadian,Male,Singer,#EDD3C1
+GQ USA,January,2018,January 2018,Stephen Colbert,American,Male,Comedian,#DDAE9B
+GQ USA,January,2019,January 2019,Michael B. Jordan,American,Male,Actor,#885D28
+GQ USA,January,2020,January 2020,Jennifer Lopez,American,Female,Singer,#000000
+GQ USA,July,1990,July 1990,Steve Martin,American,Male,Actor,#FBAF80
+GQ USA,July,1991,July 1991,Kevin Costner,American,Male,Actor,#F7AD82
+GQ USA,July,1992,July 1992,Eddie Murphy,American,Male,Comedian,#B85D43
+GQ USA,July,1993,July 1993,Ted Danson,American,Male,Actor,#000000
+GQ USA,July,1994,July 1994,Jeff Bridges,American,Male,Actor,#FFCDAF
+GQ USA,July,1995,July 1995,Andy Garcia,American,Male,Actor,#E0A055
+GQ USA,July,1996,July 1996,Andre Agassi,American,Male,Tennis Player,#F19572
+GQ USA,July,1997,July 1997,Matthew McConaughey,American,Male,Actor,#FC9C64
+GQ USA,July,1998,July 1998,Ralph Fiennes,British,Male,Actor,#FBC296
+GQ USA,July,1999,July 1999,Patrick Rafter,Australian,Male,Tennis Player,#FC8341
+GQ USA,July,2000,July 2000,Mark Wahlberg,American,Male,Actor,#FEA988
+GQ USA,July,2001,July 2001,Julianne Moore,American,Female,Actor,#EAAD9F
+GQ USA,July,2002,July 2002,Jude Law,British,Male,Actor,#F6B290
+GQ USA,July,2003,July 2003,Eric Bana,American,Male,Writer,#E1AC8C
+GQ USA,July,2004,July 2004,Will Ferrell,American,Male,Actor,#EFA689
+GQ USA,July,2005,July 2005,Jessica Simpson,American,Female,Singer,#F4AA84
+GQ USA,July,2006,July 2006,Will Ferrell,American,Male,Actor,#F6D7B7
+GQ USA,July,2007,July 2007,Jessica Biel,American,Female,Actor,#D7AE8D
+GQ USA,July,2008,July 2008,Gisele Bündchen,Brazilian,Female,Model,#D19465
+GQ USA,July,2009,July 2009,Sacha Baron Cohen,British,Male,Actor,#E9C59A
+GQ USA,July,2010,July 2010,Taylor Lautner,American,Male,Actor,#E2A37A
+GQ USA,July,2011,July 2011,Chris Evans,American,Male,Actor,#F0BEA0
+GQ USA,July,2012,July 2012,Kate Upton,American,Female,Model,#F3DBC4
+GQ USA,July,2013,July 2013,Drake,Canadian,Male,Singer,#DC9C78
+GQ USA,July,2014,July 2014,Emily Ratajowski,American,Female,Model,#B4937B
+GQ USA,July,2015,July 2015,Beyonce,American,Female,Singer,#D78E6A
+GQ USA,July,2015,July 2015,Brad Pitt,American,Male,Actor,#DBB8B9
+GQ USA,July,2015,July 2015,Bradley Cooper,American,Male,Actor,#FBC4AB
+GQ USA,July,2015,July 2015,Jay-Z,American,Male,Singer,#8D4432
+GQ USA,July,2015,July 2015,Kanye West,American,Male,Singer,#613A31
+GQ USA,July,2015,July 2015,Pharrell Williams,American,Male,Singer,#C0836B
+GQ USA,July,2015,July 2015,Ryan Gosling,Canadian,Male,Actor,#E6AE9A
+GQ USA,July,2016,July 2016,Kim Kardashian-West,Armenian-American,Female,Television Personality,#E1B396
+GQ USA,July,2017,July 2017,Mahershala Ali,American,Male,Actor,#AF785D
+GQ USA,July,2018,July 2018,Zayn Malik,British,Male,Singer,#DBBD9C
+GQ USA,July,2019,July 2019,Seth Rogan,American,Male,Actor,#E9C8B4
+GQ USA,June,1990,June 1990,David Letterman,American,Male,Television Host,#F79977
+GQ USA,June,1991,June 1991,Kurt Russel,American,Male,Actor,#FF9775
+GQ USA,June,1992,June 1992,Michael Keaton,American,Male,Actor,#FCD096
+GQ USA,June,1993,June 1993,Arnold Schwarzenegger,American,Male,Bodybuilder,#FC815F
+GQ USA,June,1994,June 1994,Harrison Ford,American,Male,Actor,#F88159
+GQ USA,June,1995,June 1995,Tom Hanks,American,Male,Actor,#EA704C
+GQ USA,June,1996,June 1996,Bruce Willis,American,Male,Actor,#F5A88F
+GQ USA,June,1997,June 1997,Will Smith,American,Male,Actor,#E95024
+GQ USA,June,1998,June 1998,Martina Hingis,Swiss,Female,Tennis Player,#EFA477
+GQ USA,June,1999,June 1999,Mike Myers,American,Male,Actor,#F3A794
+GQ USA,June,2000,June 2000,Joquin Phoenix,American,Male,Actor,#F8B9A5
+GQ USA,June,2001,June 2001,Heath Ledger,British,Male,Actor,#DF9B84
+GQ USA,June,2002,June 2002,Chris Rock,American,Male,Actor,#FFC18F
+GQ USA,June,2003,June 2003,Eva Mendes,American,Female,Actor,#CF764B
+GQ USA,June,2004,June 2004,Jake Gyllenhaal,American,Male,Actor,#F5A585
+GQ USA,June,2005,June 2005,Brad Pitt,American,Male,Actor,#ECA88A
+GQ USA,June,2006,June 2006,Christina Aguilera,American,Female,Singer,#EAD5C8
+GQ USA,June,2007,June 2007,Jessica Alba,American,Female,Actor,#DAA887
+GQ USA,June,2008,June 2008,Shia LaBeouf,American,Male,Actor,#D0B89A
+GQ USA,June,2009,June 2009,Christian Bale,British,Male,Actor,#EDC6AE
+GQ USA,June,2010,June 2010,Miranda Kerr,Australian,Female,Model,#E2A37A
+GQ USA,June,2011,June 2011,Alexander Skargard,American,Male,Actor,#FACA9F
+GQ USA,June,2012,June 2012,Michael Faassbender,Irish-German,Male,Actor,#EDDDCC
+GQ USA,June,2013,June 2013,James Franco,American,Male,Actor,#E9B59B
+GQ USA,June,2014,June 2014,Channing Tatum,American,Male,Actor,#E2B9A0
+GQ USA,June,2015,June 2015,Chris Pratt,American,Male,Actor,#EFCFB6
+GQ USA,June,2016,June 2016,Hailey Clauson,American,Female,Model,#F7CC9F
+GQ USA,June,2016,June 2016,Rob Gronkowski,American,Male,NFL Player,#F5C6A1
+GQ USA,June,2017,June 2017,Dwayne Johnson,American,Male,Actor,#C8845A
+GQ USA,June,2018,June 2018,Issa Rae,American,Female,Actor,#6D402A
+GQ USA,June,2018,June 2018,Kate McKinnon,American,Female,Actor,#D1A88C
+GQ USA,June,2018,June 2018,Sarah Silverman,American,Female,Comedian,#EBCBAD
+GQ USA,June,2019,June 2019,Seth Rogan,Canadian,Male,Actor,#E9C8B4
+GQ USA,March,1990,March 1990,Bo Jackson,American,Male,Baseball Player,#8B3C2A
+GQ USA,March,1991,March 1991,Steven Seagal,American,Male,Actor,#FBA86E
+GQ USA,March,1992,March 1992,Bridget Fonda,American,Female,Actor,#DEBE8C
+GQ USA,March,1993,March 1993,Clint Eastwood,American,Male,Actor,#E9875D
+GQ USA,March,1994,March 1994,Tommy Lee Jones,American,Male,Actor,#F87D40
+GQ USA,March,1995,March 1995,George Clooney,American,Male,Actor,#F2B077
+GQ USA,March,1996,March 1996,David Schwimmer,American,Male,Actor,#FD9E83
+GQ USA,March,1997,March 1997,Nicolas Cage,American,Male,Actor,#000000
+GQ USA,March,1998,March 1998,Liam Neeson,Irish,Male,Actor,#EA9E90
+GQ USA,March,1999,March 1999,Russell Crowe,Irish,Male,Actor,#BC846E
+GQ USA,March,2000,March 2000,Harrison Ford,American,Male,Actor,#F296A0
+GQ USA,March,2000,March 2000,Tom Cruise,American,Male,Actor,#F5B2B0
+GQ USA,March,2001,March 2001,Ed Norton,American,Male,Actor,#FEB989
+GQ USA,March,2002,March 2002,Tobey Maguire,American,Male,Actor,#EFD2C8
+GQ USA,March,2003,March 2003,Jennifer Garner,American,Female,Actor,#FCC198
+GQ USA,March,2004,March 2004,Angelena Jolie,American,Female,Actor,#EFA57C
+GQ USA,March,2005,March 2005,Russell Crowe,Australian,Male,Actor,#F5C6BB
+GQ USA,March,2006,March 2006,Matthew Fox,American,Male,Actor,#CB9779
+GQ USA,March,2007,March 2007,Christian Bale,British,Male,Actor,#E5C0BA
+GQ USA,March,2008,March 2008,Eric Bana,Australian,Male,Actor,#E9BA9D
+GQ USA,March,2009,March 2009,Justin Timberlake,American,Male,Singer,#E2B8A3
+GQ USA,March,2010,March 2010,Kobe Bryant,American,Male,Basketball Player,#9C624E
+GQ USA,March,2011,March 2011,Channing Tatum,American,Male,Actor,#EDC6B5
+GQ USA,March,2012,March 2012,Jennifer Anniston,American,Female,Actor,#ECD2C6
+GQ USA,March,2012,March 2012,Paul Rudd,American,Male,Actor,#F1D1BE
+GQ USA,March,2013,March 2013,Bruce Willis,American,Male,Actor,#DFC3A9
+GQ USA,March,2014,March 2014,LeBron James,American,Male,Basketball Player,#9C5E43
+GQ USA,March,2015,March 2015,Kevin Durant,American,Male,Baseball Player,#A76D4D
+GQ USA,March,2015,March 2015,Kevin Love,American,Male,Baseball Player,#ECC5B4
+GQ USA,March,2015,March 2015,Kobe Bryant,American,Male,Basketball Player,#884D33
+GQ USA,March,2016,March 2016,Justin Bieber,Canadian,Male,Singer,#EEBBA3
+GQ USA,March,2017,March 2017,Tom Hiddleston,British,Male,Actor,#E2C2B2
+GQ USA,March,2018,March 2018,Timothée Chalamet,American,Male,Actor,#CFAC8F
+GQ USA,March,2019,March 2019,Lucas Hedges,American,Male,Actor,#FED5B1
+GQ USA,March,2020,March 2020,Jamed Harden,American,Male,Basketball Player,#9F5134
+GQ USA,March,2020,March 2020,Russell Westbrook,American,Male,Basketball Player,#C57E56
+GQ USA,May,1990,May 1990,Arnold Schwarzenegger,Austrian,Male,Bodybuilder,#FAA258
+GQ USA,May,1991,May 1991,Woody Harrelson,American,Male,Actor,#EC703E
+GQ USA,May,1992,May 1992,Jerry Seinfeld,American,Male,Comedian,#FEC78E
+GQ USA,May,1993,May 1993,Cal Ripken,American,Male,Baseball Player,#F59A6F
+GQ USA,May,1994,May 1994,David Caruso,American,Male,Actor,#FFB569
+GQ USA,May,1995,May 1995,Mel Gibson,American,Male,Actor,#FA9071
+GQ USA,May,1996,May 1996,Julia Ormand,British,Female,Actor,#FBA58C
+GQ USA,May,1997,May 1997,Maria Grazia Cucinotta,Italian,Female,Actor,#E18B62
+GQ USA,May,1998,May 1998,Daniela Pestova,Czech,Female,Model,#E8A88C
+GQ USA,May,1999,May 1999,Ewan McGregor,Scottish,Male,Actor,#FFA69A
+GQ USA,May,2000,May 2000,Estella Warren,American,Female,Swimmer,#F3A280
+GQ USA,May,2001,May 2001,Ben Affleck,American,Male,Actor,#E6937B
+GQ USA,May,2002,May 2002,Todd Riegler,Swedish,Male,Model,#000000
+GQ USA,May,2003,May 2003,Keanu Reeves,Canadian,Male,Actor,#D9B29F
+GQ USA,May,2004,May 2004,Karolina Kurkova,Czech,Female,Model,#F2BBB2
+GQ USA,May,2005,May 2005,Hayden Christensen,Canadian,Male,Actor,#FFB392
+GQ USA,May,2006,May 2006,Tom Cruise,American,Male,Actor,#000000
+GQ USA,May,2007,May 2007,Stephen Colbert,American,Female,Comedian,#E7CCC4
+GQ USA,May,2008,May 2008,Robert Downey Jr.,American,Male,Actor,#E0AB86
+GQ USA,May,2009,May 2009,Zac Efron,American,Male,Actor,#E9C1A6
+GQ USA,May,2010,May 2010,Jake Gyllenhaal,American,Male,Actor,#ECCB9F
+GQ USA,May,2011,May 2011,Zach Galifanakis,American,Male,Actor,#E8BA98
+GQ USA,May,2012,May 2012,Derrick Rose,American,Male,Basketball Player,#BE8760
+GQ USA,May,2013,May 2013,Robert Downey Jr.,American,Male,Actor,#E4C2A4
+GQ USA,May,2014,May 2014,Louis C.K.,American,Male,Comedian,#F8E2C0
+GQ USA,May,2015,May 2015,Kendall Jenner,American,Female,Model,#ECBBA5
+GQ USA,May,2016,May 2016,Drake,Canadian,Male,Actor,#CC855E
+GQ USA,May,2016,May 2016,Future,American,Male,Singer,#BE785B
+GQ USA,May,2016,May 2016,Lucky Blue Smith,American,Male,Model,#EAC0B2
+GQ USA,May,2016,May 2016,Ryan Reynolds,Canadian-American,Male,Actor,#E2B2A0
+GQ USA,May,2016,May 2016,Tom Hardy,British,Male,Actor,#EBB9AA
+GQ USA,May,2017,May 2017,Steph Curry,American,Male,Basketball Player,#CF9D77
+GQ USA,May,2018,May 2018,James Harden,American,Male,Basketball Player,#6D402A
+GQ USA,May,2019,May 2019,Keanu Reeves,Canadian,Male,Actor,#000000
+GQ USA,November,1990,November 1990,Jeremy Irons,British,Male,Actor,#FFBE96
+GQ USA,November,1991,November 1991,Ray Liotta,American,Male,Actor,#F7B679
+GQ USA,November,1992,November 1992,Al Gore,American,Male,Politician,#FEAE9E
+GQ USA,November,1992,November 1992,Bill Clinton,American,Male,Politician,#F9A698
+GQ USA,November,1993,November 1993,Shaquille O'Neal,American,Male,Baseball Player,#943823
+GQ USA,November,1994,November 1994,Charles Barkley,American,Male,Baseball Player,#A43A28
+GQ USA,November,1995,November 1995,Sharon Stone,American,Female,Actor,#000000
+GQ USA,November,1996,November 1996,Jerry Seinfeld,American,Male,Comedian,#E79A7F
+GQ USA,November,1996,November 1996,Mel Gibson,American,Male,Actor,#EDA582
+GQ USA,November,1996,November 1996,Michael Jordon,American,Male,Basketball Player,#4F1807
+GQ USA,November,1997,November 1997,David Duchovny,American,Male,Actor,#F9BAA5
+GQ USA,November,1997,November 1997,Grant Hill,American,Male,Basketball Player,#C55738
+GQ USA,November,1997,November 1997,Tom Cruise,American,Male,Actor,#FFA590
+GQ USA,November,1998,November 1998,Chris Rock,American,Male,Comedian,#923C1F
+GQ USA,November,1998,November 1998,George Clooney,American,Male,Actor,#F9AF85
+GQ USA,November,1998,November 1998,Harrison Ford,American,Male,Actor,#FC9E6B
+GQ USA,November,1999,November 1999,Dylan McDermott,American,Male,Actor,#F49D73
+GQ USA,November,1999,November 1999,Tom Hanks,American,Male,Actor,#FF9C75
+GQ USA,November,1999,November 1999,Will Smith,American,Male,Actor,#E5703D
+GQ USA,November,2000,November 2000,Matthew Perry,American,Male,Actor,#FEC1A2
+GQ USA,November,2000,November 2000,Pierce Brosnan,British,Male,Actor,#F5C2A3
+GQ USA,November,2000,November 2000,Shaquil O'Neil,American,Male,Basketball Player,#4D1B1E
+GQ USA,November,2001,November 2001,Ben Affleck,American,Male,Actor,#F7A68D
+GQ USA,November,2001,November 2001,Benico Del Toro,American,Male,Actor,#BD5F45
+GQ USA,November,2001,November 2001,Kobe Bryant,American,Male,Basketball Player,#8E3C26
+GQ USA,November,2002,November 2002,Denzel Washingotn,American,Male,Actor,#5E2E21
+GQ USA,November,2002,November 2002,Hugh Grant,British,Male,Actor,#EBB8AA
+GQ USA,November,2002,November 2002,Ralph Lauren,American,Male,Fashion Designer,#DD8466
+GQ USA,November,2003,November 2003,Adrien Brody,American,Male,Actor,#DFA594
+GQ USA,November,2003,November 2003,Colin Farrell,Irish,Male,Actor,#EFD09E
+GQ USA,November,2004,November 2004,Colin Farrell,Irish,Male,Actor,#E78A59
+GQ USA,November,2005,November 2005,Orlando Bloom,British,Male,Actor,#F4CA96
+GQ USA,November,2006,November 2006,Dwyane Wade,American,Male,Basketball Player,#694948
+GQ USA,November,2007,November 2007,Ryan Gosling,Canadian,Male,Actor,#F2CAAD
+GQ USA,November,2008,November 2008,Jimmy Kimmel,American,Male,Television Host,#E8C5AA
+GQ USA,November,2009,November 2009,January Jones,American,Female,Actor,#F2D0B7
+GQ USA,November,2010,November 2010,Cory Monteith,Canadian,Male,Actor,#F6CEB7
+GQ USA,November,2010,November 2010,Dianna Agron,American,Female,Actor,#FCD4B9
+GQ USA,November,2010,November 2010,Lea Michele,American,Female,Actor,#F3C4AC
+GQ USA,November,2011,November 2011,Eminem,American,Male,Singer,#E3C0A6
+GQ USA,November,2011,November 2011,Keith Richards,American,Male,Singer,#FACBB7
+GQ USA,November,2011,November 2011,Lil Wayne,American,Male,Singer,#8C5439
+GQ USA,November,2012,November 2012,Jermemy Lin,American,Male,Basketball Player,#E6B79A
+GQ USA,November,2013,November 2013,James Gandolfini,Italian-American,Male,Actor,#000000
+GQ USA,November,2013,November 2013,Justin Timberlake,American,Male,Singer,#E8C4AE
+GQ USA,November,2013,November 2013,Kendrick Lemar,American,Male,Singer,#AC7655
+GQ USA,November,2013,November 2013,Matthew McConaughey,American,Male,Actor,#E3BCA7
+GQ USA,November,2013,November 2013,Michael Faassbender,American,Male,Actor,#EBC8A4
+GQ USA,November,2014,November 2014,Matthew McConaughey,American,Male,Actor,#EEC6AF
+GQ USA,November,2015,November 2015,Taylor Swift,American,Female,Singer,#F6CEB7
+GQ USA,November,2016,November 2016,Russell Westbrook,American,Male,Basketball Player,#9F5134
+GQ USA,November,2017,November 2017,LeBron James,American,Male,Basketball Player,#A56335
+GQ USA,November,2018,November 2018,Ryan Gosling,Canadian,Male,Actor,#DEBBA8
+GQ USA,November,2019,November 2019,Pharrell Williams,American,Male,Singer,#AF7458
+GQ USA,October,1990,October 1990,James Spader,American,Male,Actor,#FFB575
+GQ USA,October,1991,October 1991,Nick Nolte,American,Male,Actor,#F88335
+GQ USA,October,1992,October 1992,Tim Robbins,American,Male,Actor,#FEA548
+GQ USA,October,1993,October 1993,Johnny Depp,American,Male,Actor,#000000
+GQ USA,October,1994,October 1994,Michael Jackson,American,Male,Singer,#000000
+GQ USA,October,1995,October 1995,John Travolta,American,Male,Actor,#FEB68A
+GQ USA,October,1996,October 1996,Elisabeth Shue,American,Female,Actor,#FBAB8F
+GQ USA,October,1997,October 1997,George Clooney,American,Male,Actor,#FD956E
+GQ USA,October,1998,October 1998,Hugh Grant,British,Male,Actor,#F07E4B
+GQ USA,October,1999,October 1999,Ashley Judd,American,Female,Actor,#F5A77C
+GQ USA,October,2000,October 2000,Kevin Spacey,American,Male,Actor,#E28C77
+GQ USA,October,2001,October 2001,Kobe Bryant,American,Male,Basketball Player,#9F5D50
+GQ USA,October,2001,October 2001,Mario Lemieux,American,Male,Canadian,#EEB0A3
+GQ USA,October,2002,October 2002,Kevin Garnett,American,Male,Basketball Player,#2D1416
+GQ USA,October,2002,October 2002,Tom Brady,American,Male,NFL Player,#DDAE98
+GQ USA,October,2003,October 2003,Dwayne Johnson,American,Male,Actor,#BD6C4A
+GQ USA,October,2004,October 2004,Lindsey Lohan,American,Female,Actor,#F9BFA7
+GQ USA,October,2005,October 2005,Cameron Diaz,American,Female,Actor,#F8B198
+GQ USA,October,2006,October 2006,Josh Hartnett,American,Male,Actor,#E3B8B8
+GQ USA,October,2007,October 2007,Paul Newman,American,Female,Actor,#DEA38F
+GQ USA,October,2008,October 2008,Megan Fox,American,Female,Actor,#EBC19F
+GQ USA,October,2009,October 2009,Olivia Wilde,American,Female,Actor,#B27849
+GQ USA,October,2010,October 2010,Ryan Reynolds,Canadian-American,Male,Actor,#EDD2C2
+GQ USA,October,2011,October 2011,Leonardo DiCaprio,American,Male,Actor,#FADFCA
+GQ USA,October,2012,October 2012,Chris Paul,American,Male,Baseball Player,#8F755C
+GQ USA,October,2012,October 2012,Denzel Washington,American,Male,Actor,#A08872
+GQ USA,October,2012,October 2012,Javier Bardem,Spanish,Male,Actor,#DFCCB0
+GQ USA,October,2013,October 2013,Idris Elba,British,Male,Actor,#8A4E37
+GQ USA,October,2013,October 2013,Jeff Bridges,American,Male,Actor,#ECC0A8
+GQ USA,October,2013,October 2013,Justin Theroux,American,Male,Actor,#ECBEAB
+GQ USA,October,2014,October 2014,Blake Griffin,American,Male,Basketball Player,#E6B299
+GQ USA,October,2014,October 2014,Clive Owen,British,Male,Actor,#E6B299
+GQ USA,October,2014,October 2014,Norman Reedus,American,Male,Actor,#EBC8B6
+GQ USA,October,2015,October 2015,Michael B. Jordan,American,Male,Actor,#A66D5C
+GQ USA,October,2015,October 2015,Rob Lowe,American,Male,Actor,#F3C8B3
+GQ USA,October,2015,October 2015,Ryan Reynolds,Canadian-American,Male,Actor,#F2C0AD
+GQ USA,October,2016,October 2016,Lin-Manuel Miranda,American,Male,Composer,#E6B79B
+GQ USA,October,2017,October 2017,Harrison Ford,American,Male,Actor,#EBBEA8
+GQ USA,October,2018,October 2018,Paul McCartney,British,Male,Singer,#E2BBA6
+GQ USA,October,2019,October 2019,Brad Pitt,American,Male,Actor,#C69263
+GQ USA,September,1990,September 1990,Jim Everett,American,Male,NFL Player,#FDAD8F
+GQ USA,September,1991,September 1991,Boris Becker,German,Male,Tennis Player,#FCAC73
+GQ USA,September,1992,September 1992,Al Pacino,American,Male,Actor,#FABB89
+GQ USA,September,1993,September 1993,Troy Aikman,American,Male,NFL Player,#FC8D57
+GQ USA,September,1994,September 1994,Jimmy Johnson,American,Male,Basketball Coach,#FFAC67
+GQ USA,September,1995,September 1995,Steve Young,American,Male,NFL Player,#FFB096
+GQ USA,September,1996,September 1996,Dan Marino,American,Male,NFL Player,#FEBBAF
+GQ USA,September,1997,September 1997,Sean Penn,American,Male,Actor,#F5896B
+GQ USA,September,1998,September 1998,Derek Jeter,American,Male,NFL Player,#E1713D
+GQ USA,September,1999,September 1999,Terrell Davis,American,Male,NFL Player,#6F3631
+GQ USA,September,2000,September 2000,Brendan Fraser,American,Male,Actor,#FEA97E
+GQ USA,September,2001,September 2001,Ben Stiller,American,Male,Actor,#F2A075
+GQ USA,September,2002,September 2002,Heidi Klum,German,Female,Model,#F8AF86
+GQ USA,September,2003,September 2003,Johnny Knoxville,American,Male,Actor,#F5AE8D
+GQ USA,September,2004,September 2004,Justin Timberlake,American,Male,Actor,#F4C3AF
+GQ USA,September,2005,September 2005,Tom Brady,American,Male,NFL Player,#CDA177
+GQ USA,September,2006,September 2006,Clive Owen,British,Male,Actor,#F7BB9E
+GQ USA,September,2007,September 2007,Barack Obama,American,Female,Actor,#D19968
+GQ USA,September,2008,September 2008,James Franco,American,Male,Actor,#EDC3AC
+GQ USA,September,2009,September 2009,Michael Jackson,American,Male,Singer,#B97C53
+GQ USA,September,2010,September 2010,LeBron James,American,Male,Basketball Player,#85482B
+GQ USA,September,2011,September 2011,Mark Sanchez,American,Male,NFL Player,#F5C89A
+GQ USA,September,2012,September 2012,Cam Newton,American,Male,NFL Player,#A57153
+GQ USA,September,2012,September 2012,Tim Tebow,American,Male,Baseball Player,#E1B99B
+GQ USA,September,2013,September 2013,Colin Kaepernick,American,Male,NFL Player,#E7B28B
+GQ USA,September,2013,September 2013,Robert Griffin III,American,Male,NFL Player,#B7663D
+GQ USA,September,2014,September 2014,Adam Driver,American,Male,Actor,#EAC3AE
+GQ USA,September,2015,September 2015,Stephen Colbert,American,Male,Comedian,#EEB691
+GQ USA,September,2016,September 2016,Cam Newton,American,Male,NFL Player,#9E5E48
+GQ USA,September,2017,September 2017,Robert Pattinson,British,Male,Actor,#D8B09E
+GQ USA,September,2018,September 2018,Chris Hemsworth,Australian,Male,Actor,#D4B9AB
+GQ USA,September,2019,September 2019,Rami Malek,American,Male,Actor,#D7C0A3
